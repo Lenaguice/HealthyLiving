@@ -1,6 +1,7 @@
 .mentaltitle {
-    color: rgb(202, 147, 9);
+    color: green;
     margin: 30px;
+    padding-top: 2%;
 }
 
 .mentalimg {
@@ -13,6 +14,7 @@
 .deeP {
     text-align: justify;
     margin: 30px;
+    color: green
 }
 
 h5{
