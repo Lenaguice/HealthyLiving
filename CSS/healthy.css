@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(180, 211, 180) ;;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+
+Header .container{
+    font-size:large;
+    width:75%;
+    color:black;
+}
+
+
+
+.row{
+    border: black;
+    padding: 25px;
+    margin: 10px;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h2{
+    padding-inline: 50px;
+    float: left;
+    margin:25px 25px ;
+}
+
+.aapics{
+    padding: 10px 15px;
+    
+}
