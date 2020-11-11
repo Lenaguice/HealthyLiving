@@ -1,12 +1,14 @@
 body{
     background-color:rgb(180, 211, 180) ;;
     padding: 20px;
+    align-content: center;
 }
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
     text-align: center;
+    font-size: 75px;
 }
 
 Header .container{
@@ -36,5 +38,6 @@ h2{
 
 .aapics{
     padding: 10px 15px;
+    margin: 5px 10px;
     
 }
