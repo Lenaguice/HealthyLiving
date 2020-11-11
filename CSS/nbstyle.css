@@ -1,28 +1,35 @@
 
-
-h2.nbh2 { 
+img{
+    margin-top: 40px;
+}
+h3.nbh2 { 
     text-align: center;
     margin-left: 100px;
-    margin-top: 80px;
+    margin-top: 40px;
     color: rgb(3, 3, 116);
 }
 
 
 p.nbintro {
     text-align: justify ;
-    margin-left: 100px;
-    margin-top: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
     color: rgb(3, 3, 116);
 }
 
 div.jumbotron {
-    margin: 40px;
+    margin: 50px;
     text-align: center;
-    border-style: inset;
-    border-width: thick;
-    border: wheat;
+    background-color: wheat;
+    color: rgb(3, 3, 116);
+    
 }
 
 .card-deck{
     margin: 30px;
+    color: rgb(3, 3, 116);
+}
+
+.card-body{
+    background-color: rgb(245, 245, 245);
 }

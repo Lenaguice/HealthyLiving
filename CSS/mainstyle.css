@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(-45deg, #f0e7d7,#ccffcc,white,#e6ffb3);
+	background: linear-gradient(-45deg, #f0e7d7,#c0f1c0,#c0ddf5,rgb(180, 211, 180));
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 .row-title {
-    background-color: #e0a64d;
+    background-color: #f1be75;
     height: 35px;
 
 }
@@ -26,11 +26,16 @@ h4 {
     color:white;
     font-style: oblique;
     text-rendering: geometricPrecision;
-    text-shadow: 1px 1px 2px black, 0 0 25px turquoise, 0 0 5px darkslategray;
+    text-shadow: 1px 1px 2px black, 0 0 25px brown, 0 0 5px darkslategray;
+}
+
+nav{
+    text-align: center;
 }
 
 ul {
     background-color: wheat;
+    
 }
 
 .container-title{
@@ -38,11 +43,8 @@ ul {
 }
 
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
+    text-align: center;
     width: 100%;
     background-color: wheat;
-    color: white;
-    text-align: center;
+    color: rgb(3, 3, 116);
 }
