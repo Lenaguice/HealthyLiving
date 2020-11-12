@@ -1,9 +1,8 @@
 body {
         background-color: rgb(180, 211, 180) ;
-        background-image: url("../Images/lgImages/Background.jpg");
+        background-image: url("../Images/lgimages/Background.jpg");
         background-size: cover;
         background-repeat: no-repeat;
-    
   }
 
 #lgtrl { 
