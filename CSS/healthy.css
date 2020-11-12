@@ -11,19 +11,18 @@ h1 {
     font-size: 75px;
 }
 
-Header .container{
+p{
     font-size:large;
+    text-align: center;
     width:75%;
     color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 80px;
 }
 
 
 
-.row{
-    border: black;
-    padding: 25px;
-    margin: 10px;
-}
 
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;

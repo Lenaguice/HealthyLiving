@@ -1,7 +1,26 @@
 body {
     background-color: rgb(180, 211, 180) ;
+    background-image: url("../Images/lgImages/Background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+#lgtrl { 
+    text-decoration: underline;
+    text-decoration-color: coral;
+    color: rosybrown;
 }
 
+li {
+    color: seagreen ;
+}
+
+#ntm {
+    color: rosybrown;
+}
+.mt-3 {
+    color: darkolivegreen;
+}
 .rowa {
     background-color: burlywood
 }
@@ -24,19 +43,11 @@ nav{
 }
 
 ul {
-    background-color: wheat;
+    background-color: rgb(212, 168, 124);
+    
     
 }
 
 .container-title{
     margin: 0px;
 }
-
-.footer {
-    text-align: center;
-    width: 100%;
-    background-color: wheat;
-    color: rgb(3, 3, 116);
-}
-
-
